@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages of Nick Wang - [Transmit to The Pages](nick-wang.github.io)
+## Welcome to GitHub Pages of Nick Wang - [Transmit to The Pages](https://nick-wang.github.io/)
 
 You can use the [editor on GitHub](https://github.com/nick-wang/nick-wang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
